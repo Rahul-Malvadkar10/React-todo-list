@@ -1,4 +1,10 @@
 # React-todo-list #
+
+*Live Demo
+
+You can view the live demo of todo-list app here
+https://react-todo-list-flax-ten.vercel.app/
+
 ![counter app img](https://github.com/user-attachments/assets/124bad7a-f3ed-478b-8406-178440be3983)
 
 
